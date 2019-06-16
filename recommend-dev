@@ -10,7 +10,3 @@ spring:
     url: jdbc:mysql://39.98.174.77:3304/recommand?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
-eureka:
-  client:
-    service-url:
-      defaultZone: http://39.98.174.77:8761/eureka/
